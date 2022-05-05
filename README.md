@@ -4,7 +4,7 @@ Certification exam guide
 
 Version: **05/05/2022** 
 
-by ruslanmv
+by [ruslanmv](https://github.com/ruslanmv)
 
 #### Section 1: Framing ML problems
 
